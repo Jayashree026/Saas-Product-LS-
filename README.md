@@ -18,5 +18,12 @@
   2. Execution results (for SELECT queries)  
 
 ---
-![Screenshot (1583)](https://github.com/user-attachments/assets/3a32be3d-a770-4129-8407-e84922e3e6f0)
+
+![Screenshot (1586)](https://github.com/user-attachments/assets/8e7ba599-1b84-4774-bd9a-31c6fcc3be3f)
+
+---
+
+![Screenshot (1588)](https://github.com/user-attachments/assets/75e733c9-d20d-45c3-b74c-c5f214c30e69)
+
+
 

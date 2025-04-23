@@ -2,7 +2,7 @@
 
 **Natural language to SQL query converter and executor**  
 
-## ✨ Features  
+##  Features  
 
 ### Supported Query Types  
 - `SELECT` statements  
